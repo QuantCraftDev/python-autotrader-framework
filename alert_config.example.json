@@ -1,0 +1,13 @@
+{
+  "oanda": {
+    "account_id": "REPLACE_WITH_ACCOUNT_ID"
+  },
+  "session": {
+    "start_utc": "13:00",
+    "end_utc": "16:00"
+  },
+  "strategy": {
+    "symbol": "EUR_USD",
+    "risk_per_trade": 0.005
+  }
+}

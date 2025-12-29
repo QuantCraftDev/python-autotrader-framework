@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.env.*
+
+# Config files with secrets
+alert_config.json
+config.json
+
+# Logs
+logs/
+*.log
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.envrc
+
+# OS files
+.DS_Store
+Thumbs.db
